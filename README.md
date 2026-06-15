@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+🔭 Senior Python Developer
+
 ### 🏗️ Conda-forge contributions
 
 I maintain and contribute to **conda-forge** packages, including:
