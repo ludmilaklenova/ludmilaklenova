@@ -8,7 +8,7 @@ research organizations (Synchrotron SOLEIL, CEA, CNRS, IPGP, École Polytechniqu
 
 ### 🏗️ Conda-forge contributions
 
-Maintainer and contributor to **conda-forge** packages:
+Contributor to **conda-forge** packages:
 
 - **[pyqt-feedstock](https://github.com/conda-forge/pyqt-feedstock)** — PyQt6, PyQt6-Charts, PyQt6-WebEngine
   - Integrated the Qt Designer plugin build (`libpyqt6.so`) for Linux, macOS, and Windows
