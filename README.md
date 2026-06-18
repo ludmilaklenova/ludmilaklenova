@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![PyQt6 Designer Plugin on conda-forge](https://img.shields.io/badge/conda--forge-PyQt6%20♡%20Designer%20Plugin-43B02A?logo=qt&logoColor=white&style=flat-square)](https://github.com/conda-forge/pyqt-feedstock/pull/184)
+
 🔭 **Senior Python Engineer** — Control-Command & Scientific Systems
 
 French engineer with 20+ years of experience in scientific software development,
